@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Recipe</string>
+    <string name="recipeTitle">Welcome Chef</string>
+    <string name="recipeSubtitle">Here Your Go</string>
+    <string name="button_addRecipe">Add Recipe</string>
+    <string name="button_saveRecipe">Save Recipe</string>
+    <string name="button_changeImage">Change Image</string>
+    <string name="button_addImage"> Add Image </string>
+    <string name="hint_recipeName">Recipe Name</string>
+    <string name="hint_recipeIngredients">Recipe Ingredients</string>
+    <string name="hint_recipeExplain"> Full Recipe</string>
+    <string name="menu_addRecipe">Add</string>
+    <string name="menu_deleteRecipe">Delete</string>
+    <string name="menu_cancelRecipe">Cancel</string>
+    <string name="message_enter_title">Please enter a title</string>
+    <string name="select_Recipe_image">Select recipe image</string>
+    <string name="start">Getting Start Recipe App</string>
+    <string name="welcome">Welcome to Recipe App</string>
+</resources>
